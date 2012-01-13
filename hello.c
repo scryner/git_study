@@ -2,6 +2,8 @@
 
 void do_something() {
     printf("doing\n");
+    printf("something\n");
+
 }
 
 int main() {
