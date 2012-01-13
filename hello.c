@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void do_something() {
+    printf("doing\n");
+}
+
 int main() {
     printf("hello, world!\n");
 
