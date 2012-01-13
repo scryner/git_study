@@ -4,6 +4,7 @@ void do_something() {
     printf("doing\n");
     printf("something\n");
     printf("good\n");
+    printf("adding more\n");
 }
 
 int main() {
