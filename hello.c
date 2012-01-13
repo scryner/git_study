@@ -3,7 +3,7 @@
 void do_something() {
     printf("doing\n");
     printf("something\n");
-
+    printf("good\n");
 }
 
 int main() {
